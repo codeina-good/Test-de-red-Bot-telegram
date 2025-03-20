@@ -29,6 +29,6 @@ la ultima funcion es un keyloger simple el cual tambien es completamente configu
         - País: TEST
         - Ubicación (Latitud, Longitud): TEST
 
-[!tips] 
+>[!TIP] 
 Para no tener que estar ejecutando desde un editor el codigo recomiendo trasformarlo en un .exe de igual manera dejare el que hice yo por si les da peresa.
         
