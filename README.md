@@ -31,4 +31,15 @@ la ultima funcion es un keyloger simple el cual tambien es completamente configu
 
 >[!TIP] 
 Para no tener que estar ejecutando desde un editor el codigo recomiendo trasformarlo en un .exe de igual manera dejare el que hice yo por si les da peresa.
+
+>[!important]
+>DEPENDECIAS
+keyboard                  0.13.5
+numpy                     2.2.3
+opencv-python             4.11.0.86
+platformdirs              4.3.6
+psutil                    7.0.0
+requests                  2.32.3
+
+
         
